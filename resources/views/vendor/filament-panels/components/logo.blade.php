@@ -1,0 +1,1 @@
+<img src="{{asset('/images/computer.jpg') }}" alt="Logo" class="w-10" style="border-radius: 90px; width:25%">
